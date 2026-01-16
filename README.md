@@ -33,6 +33,12 @@ I have completed all quizzes and exercises from the following SQLZoo sections:
 
 ---
 
+## 📎 Reference
+
+- SQLZoo Tutorial: https://sqlzoo.net/wiki/SQL_Tutorial
+
+---
+
 ## 🛠️ Skills Gained
 
 - SQL querying & data retrieval  
